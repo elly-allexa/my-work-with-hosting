@@ -9,6 +9,10 @@ img {
   border-radius: 20px;
 }
 
+.netlify-style {
+  text-decoration: none;
+}
+
 .contact-btn {
   display: block;
   margin: 0 auto;
