@@ -8,3 +8,9 @@ img {
   margin: 20px auto;
   border-radius: 20px;
 }
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+}
